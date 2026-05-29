@@ -1,0 +1,37 @@
+version: 1
+inventory:
+  lastExpandableRows: 4
+  equipmentSlotsPanelPosition:
+    x: -76
+    y: -17
+  quickSlotsPanelPosition:
+    x: -450
+    y: -846
+players:
+  3446712325:
+    favoriteSlots:
+    - x: 0
+      y: 0
+    - x: 1
+      y: 0
+    - x: 0
+      y: 1
+    - x: 1
+      y: 1
+    - x: 2
+      y: 1
+    - x: 3
+      y: 1
+    - x: 4
+      y: 1
+    - x: 5
+      y: 1
+    - x: 6
+      y: 1
+    - x: 7
+      y: 1
+    - x: 7
+      y: 9
+    craftingFavorites:
+    - MashedMeat
+    upgradeFavorites: []

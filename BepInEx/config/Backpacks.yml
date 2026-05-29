@@ -1,0 +1,30 @@
+val26k_backpack: # Give your backpack an amazing name! Quote the name, if you want to use special characters. "Blaxxun's Pack":
+  description: "A huge backpack" # And a descriptive description!
+  size: 6x3 # This means 6 columns and 3 rows, so 18 slots in your backpack. Keep it small! Don't go higher than 8 here. Valheim doesn't like that at all.
+  unique: global # This sets how many backpacks you can have in your inventory. See below for more info.
+  effect: SE_Warm # Name of a status effect to apply to the player, if the backpack is equipped.
+  teleport: true
+  appearance: # Now make it really unique and personalized, it's just your backpack after all!
+    Sleepbag: hidden # Hide the sleepbag at the top of the backpack.
+    BackpackStrapTop: hidden # Hide the straps that were holding the sleepbag as well.
+    BackpackFlap: ff00fe # Color the flap at the top pink.
+  crafting: # Make your backpack craftable.
+    station: Workbench # The crafting station where you can craft your backpack.
+    level: 2 # The required crafting station level to craft your backpack.
+    costs: # The cost for crafting your backpack.
+      BronzeNail: 5 # Needs 3 bronze nails.
+      LeatherScraps: 10 # Needs 10 leather scraps
+      DeerHide: 10 # Needs 5 deer hide
+  upgrade: # Can your backpack be upgraded? Define as many upgrades as you want!
+    1: # Config for the first upgrade.
+      Iron: 10 # Need 5 wood
+      Guck: 10 # And 10 stone.
+      size: 6x4
+    2: # Config for the first upgrade.
+      Iron: 10 # Need 5 wood
+      Guck: 10 # And 10 stone.
+      size: 7x5
+    3: # Config for the first upgrade.
+      Iron: 10 # Need 5 wood
+      Guck: 10 # And 10 stone.
+      size: 8x6
