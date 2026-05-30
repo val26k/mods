@@ -1,0 +1,18 @@
+- v1.106
+  - Fixes server side remote commands returning excessive output.
+  - Fixes autocomplete issue.
+
+- v1.105
+  - Fixes major performance issue in the permission system.
+
+- v1.104
+  - Fixes permissions.yaml not being created on start up.
+
+- v1.103
+  - Adds granular permission system to allow features for non-admins and disable features for admins.
+  - Fixes vanilla bug that sometimes spams error about "view direction zero" when flying. Thanks Haloa!
+  - Fixes various autocomplete issues (especially with Better Continentds mod). Thanks Kurios.ZeuS!
+  - Improves console behavior. Thanks Haloa!
+
+- v1.102
+  - Adds support for receiving server side location and vegetation IDs from Expand World Data mod.

@@ -1,0 +1,608 @@
+- manifestVersion: 1
+  name: denikson-BepInExPack_Valheim
+  authorName: denikson
+  websiteUrl: https://thunderstore.io/c/valheim/p/denikson/BepInExPack_Valheim/
+  displayName: BepInExPack_Valheim
+  description: >-
+    BepInEx pack for Valheim. Preconfigured with the correct entry point for
+    mods and preferred defaults for the community.
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1779121790157
+  loaders: []
+  dependencies: []
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 5
+    minor: 4
+    patch: 2333
+  enabled: true
+- manifestVersion: 1
+  name: Advize-PlantEverything
+  authorName: Advize
+  websiteUrl: https://thunderstore.io/c/valheim/p/Advize/PlantEverything/
+  displayName: PlantEverything
+  description: >-
+    Allows your cultivator to plant berry bushes, thistle, dandelions,
+    mushrooms, previously unavailable tree types, and other decorative flora.
+    Includes many other miscellaneous features (see description). Highly
+    configurable with localization support.
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1779121793521
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.2333
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 20
+    patch: 0
+  enabled: true
+- manifestVersion: 1
+  name: ValheimModding-Jotunn
+  authorName: ValheimModding
+  websiteUrl: https://thunderstore.io/c/valheim/p/ValheimModding/Jotunn/
+  displayName: Jotunn
+  description: >-
+    Jötunn (/ˈjɔːtʊn/, 'giant'), the Valheim Library was created with the goal
+    of making the lives of mod developers easier. It enables you to create mods
+    for Valheim using an abstracted API so you can focus on the actual content
+    creation.
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1779121799266
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.2333
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2
+    minor: 29
+    patch: 0
+  enabled: true
+- manifestVersion: 1
+  name: ValheimModding-JsonDotNET
+  authorName: ValheimModding
+  websiteUrl: https://thunderstore.io/c/valheim/p/ValheimModding/JsonDotNET/
+  displayName: JsonDotNET
+  description: >-
+    Shared version 13.0.3 of Json.NET from Newtonsoft, net45 package for use in
+    Valheim mods. Maintained by the ValheimModding team.
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1779121799285
+  loaders: []
+  dependencies: []
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 13
+    minor: 0
+    patch: 4
+  enabled: true
+- manifestVersion: 1
+  name: RandyKnapp-EpicLoot
+  authorName: RandyKnapp
+  websiteUrl: https://thunderstore.io/c/valheim/p/RandyKnapp/EpicLoot/
+  displayName: EpicLoot
+  description: Adds loot drops, magic items, and enchanting to Valheim.
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1779121799307
+  loaders: []
+  dependencies:
+    - ValheimModding-JsonDotNET-13.0.4
+    - denikson-BepInExPack_Valheim-5.4.2333
+    - ValheimModding-Jotunn-2.29.0
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 12
+    patch: 15
+  enabled: true
+- manifestVersion: 1
+  name: Azumatt-AzuCraftyBoxes
+  authorName: Azumatt
+  websiteUrl: https://thunderstore.io/c/valheim/p/Azumatt/AzuCraftyBoxes/
+  displayName: AzuCraftyBoxes
+  description: >-
+    AzuCraftyBoxes is a Valheim mod that allows players to access and use
+    resources from nearby containers when crafting and building, based on a
+    configurable range and item restrictions. Restrictions are controlled by the
+    yaml file Azumatt.AzuCraftyBoxes.yml
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1779121846887
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.2333
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 8
+    patch: 14
+  enabled: false
+- manifestVersion: 1
+  name: Advize-PlantEasily
+  authorName: Advize
+  websiteUrl: https://thunderstore.io/c/valheim/p/Advize/PlantEasily/
+  displayName: PlantEasily
+  description: >-
+    Allows you to plant evenly spaced crops, either one at a time or in any
+    amount of rows and columns, with grid snapping features and invalid crop
+    placement prevention. Harvest in bulk and optionally auto replant crops.
+    Configurable and supports gamepad.
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1779121853691
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.2333
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2
+    minor: 1
+    patch: 1
+  enabled: true
+- manifestVersion: 1
+  name: MSchmoecker-MultiUserChest
+  authorName: MSchmoecker
+  websiteUrl: https://thunderstore.io/c/valheim/p/MSchmoecker/MultiUserChest/
+  displayName: MultiUserChest
+  description: Allows multiple players to interact with the same chest at the same time
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1779121911629
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.2202
+    - ValheimModding-Jotunn-2.23.2
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 6
+    patch: 1
+  enabled: true
+- manifestVersion: 1
+  name: SpikeHimself-XPortal
+  authorName: SpikeHimself
+  websiteUrl: https://thunderstore.io/c/valheim/p/SpikeHimself/XPortal/
+  displayName: XPortal
+  description: >-
+    Select portal destination from a list of existing portals. No more tag
+    pairing, and no more portal hubs! XPortal is a complete rewrite of the
+    popular mod AnyPortal.
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1779121935449
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.2333
+    - ValheimModding-Jotunn-2.27.1
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 2
+    patch: 24
+  enabled: true
+- manifestVersion: 1
+  name: Azumatt-AzuAutoStore
+  authorName: Azumatt
+  websiteUrl: https://thunderstore.io/c/valheim/p/Azumatt/AzuAutoStore/
+  displayName: AzuAutoStore
+  description: >-
+    Automatically store and deposit items from your inventory or ground into
+    nearby chests and containers. Chest management, hotkey support, quick stack,
+    auto-pickup, favorites, ItemDrawers, backpacks, WardIsLove, ward protection.
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1779121953689
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.2333
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 3
+    minor: 0
+    patch: 14
+  enabled: true
+- manifestVersion: 1
+  name: OhhLoz-HoneyPlus
+  authorName: OhhLoz
+  websiteUrl: https://thunderstore.io/c/valheim/p/OhhLoz/HoneyPlus/
+  displayName: HoneyPlus
+  description: Adds new food items surrounding Honey
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1779121990381
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.2202
+    - ValheimModding-Jotunn-2.24.3
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 6
+    minor: 1
+    patch: 0
+  enabled: true
+- manifestVersion: 1
+  name: makail-ItemDrawers
+  authorName: makail
+  websiteUrl: https://thunderstore.io/c/valheim/p/makail/ItemDrawers/
+  displayName: ItemDrawers
+  description: >-
+    Adds a drawer that can store a large quantity of a single item. Displays the
+    item on the front of the drawer as well as the quantity stored.
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1779121995792
+  loaders: []
+  dependencies: []
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 5
+    patch: 8
+  enabled: true
+- manifestVersion: 1
+  name: ValheimModding-YamlDotNet
+  authorName: ValheimModding
+  websiteUrl: https://thunderstore.io/c/valheim/p/ValheimModding/YamlDotNet/
+  displayName: YamlDotNet
+  description: >-
+    Shared version 16.3.0 of YamlDotNet from Antoine Aubry and contributors,
+    net47 package for use in Valheim mods. Maintained by the ValheimModding
+    team.
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1779122005531
+  loaders: []
+  dependencies: []
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 16
+    minor: 3
+    patch: 1
+  enabled: true
+- manifestVersion: 1
+  name: shudnal-ConfigurationManager
+  authorName: shudnal
+  websiteUrl: https://thunderstore.io/c/valheim/p/shudnal/ConfigurationManager/
+  displayName: ConfigurationManager
+  description: >-
+    Localized, recolored, refined. Split view mode. Config files editor. Setting
+    edit window. Changed values are highlighted. Prevent user input or pause the
+    game while window is open. Window scale depends on game scale.
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1779122005559
+  loaders: []
+  dependencies:
+    - ValheimModding-YamlDotNet-16.3.0
+    - ValheimModding-JsonDotNET-13.0.3
+    - denikson-BepInExPack_Valheim-5.4.2333
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 13
+  enabled: true
+- manifestVersion: 1
+  name: TastyChickenLegs-AutomaticFuel
+  authorName: TastyChickenLegs
+  websiteUrl: https://thunderstore.io/c/valheim/p/TastyChickenLegs/AutomaticFuel/
+  displayName: AutomaticFuel
+  description: >-
+    Automatically fuel smelter, kilns, spinning wheels, windmills, torches and
+    much more.  Stack Smelter and use all ore in Blast Furnaces
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1779122009250
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.2101
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 4
+    patch: 8
+  enabled: false
+- manifestVersion: 1
+  name: mtnewton-ItemStacks
+  authorName: mtnewton
+  websiteUrl: https://thunderstore.io/c/valheim/p/mtnewton/ItemStacks/
+  displayName: ItemStacks
+  description: Increases item stack size and reduces item weight. Configurable
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1779122016369
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.600
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 2
+    patch: 0
+  enabled: true
+- manifestVersion: 1
+  name: Smoothbrain-ServerCharacters
+  authorName: Smoothbrain
+  websiteUrl: https://thunderstore.io/c/valheim/p/Smoothbrain/ServerCharacters/
+  displayName: ServerCharacters
+  description: >-
+    Saves your character on the server, instead of your computer, to prevent you
+    from messing with it.
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1779122021473
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.2202
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 4
+    patch: 16
+  enabled: true
+- manifestVersion: 1
+  name: MSchmoecker-VNEI
+  authorName: MSchmoecker
+  websiteUrl: https://thunderstore.io/c/valheim/p/MSchmoecker/VNEI/
+  displayName: VNEI
+  description: Valheim Not Enough Items. Displays all items and recipes inside a UI
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1779122024466
+  loaders: []
+  dependencies:
+    - ValheimModding-YamlDotNet-16.3.1
+    - denikson-BepInExPack_Valheim-5.4.2333
+    - ValheimModding-Jotunn-2.29.0
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 17
+    patch: 5
+  enabled: true
+- manifestVersion: 1
+  name: JereKuusela-Server_devcommands
+  authorName: JereKuusela
+  websiteUrl: https://thunderstore.io/c/valheim/p/JereKuusela/Server_devcommands/
+  displayName: Server_devcommands
+  description: Enables devcommands and utilities for server admins.
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1779122588625
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.2333
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 106
+    patch: 0
+  enabled: true
+- manifestVersion: 1
+  name: MSchmoecker-ItemHopper
+  authorName: MSchmoecker
+  websiteUrl: https://thunderstore.io/c/valheim/p/MSchmoecker/ItemHopper/
+  displayName: ItemHopper
+  description: Adds hoppers and pipes to transport items
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1779122760207
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.2202
+    - MSchmoecker-MultiUserChest-0.6.0
+    - ValheimModding-Jotunn-2.21.3
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2
+    minor: 0
+    patch: 0
+  enabled: true
+- manifestVersion: 1
+  name: TastyChickenLegs-AutomaticFermenters
+  authorName: TastyChickenLegs
+  websiteUrl: https://thunderstore.io/c/valheim/p/TastyChickenLegs/AutomaticFermenters/
+  displayName: AutomaticFermenters
+  description: >-
+    Udpated for Witch's Bog. Will pull from chests in a configured area and
+    ferment items.  Then store when done.  Configurable time and colored
+    percentage.  Turn off wall checks
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1779122773386
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.2101
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 8
+  enabled: false
+- manifestVersion: 1
+  name: eideehi-Automatics
+  authorName: eideehi
+  websiteUrl: https://thunderstore.io/c/valheim/p/eideehi/Automatics/
+  displayName: Automatics
+  description: >-
+    Automatics is a mod that automates the tedious tasks of life in Valheim.
+    Most of its features exist in existing mods, but it has been re-designed to
+    make it easier for me to use.
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1779883585901
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.2200
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 6
+    patch: 0
+  enabled: true
+- manifestVersion: 1
+  name: sighsorry-InventorySlots
+  authorName: sighsorry
+  websiteUrl: https://thunderstore.io/c/valheim/p/sighsorry/InventorySlots/
+  displayName: InventorySlots
+  description: >-
+    Custom equipment/quick slots, multicraft, progressive rows, keep-on-death,
+    favorites, scrollable tooltips, crafting grid/search/sort, container
+    stack/restock/sort, item comparison and controller support. Compatible with
+    EpicLoot and Jewelcrafting.
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1779884459112
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.2333
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 7
+  enabled: true
+- manifestVersion: 1
+  name: Vapok-AdventureBackpacks
+  authorName: Vapok
+  websiteUrl: https://thunderstore.io/c/valheim/p/Vapok/AdventureBackpacks/
+  displayName: AdventureBackpacks
+  description: >-
+    A Valheim Mod to add a catalogue of Adventuring Backpacks to the Game. These
+    packs will grow and become more useful as the game progresses.
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1779884503741
+  loaders: []
+  dependencies:
+    - ValheimModding-YamlDotNet-16.3.1
+    - ValheimModding-Jotunn-2.26.1
+    - denikson-BepInExPack_Valheim-5.4.2333
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 9
+    patch: 13
+  enabled: true
+- manifestVersion: 1
+  name: ishid4-BetterArchery
+  authorName: ishid4
+  websiteUrl: https://thunderstore.io/c/valheim/p/ishid4/BetterArchery/
+  displayName: BetterArchery
+  description: Adds many features and changes to bow gameplay.
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1779884563533
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.1501
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 9
+    patch: 82
+  enabled: true
+- manifestVersion: 1
+  name: Azumatt-TooltipExpansion
+  authorName: Azumatt
+  websiteUrl: https://thunderstore.io/c/valheim/p/Azumatt/TooltipExpansion/
+  displayName: TooltipExpansion
+  description: >-
+    Client only mod that adds a scrolling functionality to inventory tooltips.
+    For use when you like your UI huge, your items overpowered and/or your
+    tooltips long.
+  gameVersion: '0'
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1779884576361
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.2202
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 0
+  enabled: true
