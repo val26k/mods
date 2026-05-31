@@ -6,7 +6,7 @@ inventory:
     y: -17
   quickSlotsPanelPosition:
     x: -450
-    y: -846
+    y: -570
 players:
   3446712325:
     favoriteSlots:
@@ -34,4 +34,48 @@ players:
       y: 9
     craftingFavorites:
     - MashedMeat
+    upgradeFavorites: []
+  3942339518:
+    favoriteSlots:
+    - x: 0
+      y: 1
+    - x: 1
+      y: 1
+    - x: 2
+      y: 1
+    - x: 3
+      y: 1
+    - x: 4
+      y: 1
+    - x: 5
+      y: 1
+    - x: 6
+      y: 1
+    - x: 7
+      y: 1
+    craftingFavorites: []
+    upgradeFavorites: []
+  3413143272:
+    favoriteSlots: []
+    craftingFavorites: []
+    upgradeFavorites: []
+  3932144063:
+    favoriteSlots:
+    - x: 0
+      y: 1
+    - x: 1
+      y: 1
+    - x: 2
+      y: 1
+    - x: 3
+      y: 1
+    - x: 4
+      y: 1
+    - x: 5
+      y: 1
+    - x: 6
+      y: 1
+    - x: 7
+      y: 1
+    craftingFavorites: []
     upgradeFavorites: []

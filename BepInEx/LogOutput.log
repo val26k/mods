@@ -1,23 +1,23 @@
-[Message:   BepInEx] BepInEx 5.4.23.3 - valheim (18.05.2026 18:23:57)
-[Message:   BepInEx] User is running BepInExPack Valheim version 5.4.2333 from Thunderstore
+[Message:   BepInEx] BepInEx 5.4.23.5 - valheim (18.05.2026 18:23:57)
 [Info   :   BepInEx] Running under Unity v6000.0.61.7643309
 [Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
 [Info   :   BepInEx] Supports SRE: True
 [Info   :   BepInEx] System platform: Bits64, Windows
 [Message:   BepInEx] Preloader started
-[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.23.3]
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.23.5]
 [Info   :   BepInEx] 1 patcher plugin loaded
 [Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
 [Message:   BepInEx] Preloader finished
 [Message:   BepInEx] Chainloader ready
 [Message:   BepInEx] Chainloader started
-[Info   :   BepInEx] 31 plugins to load
+[Info   :   BepInEx] 34 plugins to load
 [Info   :   BepInEx] Loading [Valheim Configuration Manager 1.1.13]
 [Info   :   BepInEx] Loading [PlantEasily 2.1.1]
 [Info   :   BepInEx] Loading [PlantEverything 1.20.0]
 [Info   :   BepInEx] Loading [Instant Monster Drop 0.6.0]
 [Info   :   BepInEx] Loading [Backpacks 1.3.8]
 [Info   :   BepInEx] Loading [AzuAutoStore 3.0.14]
+[Info   :   BepInEx] Loading [AzuCraftyBoxes 1.8.14]
 [Info   :   BepInEx] Loading [Jotunn 2.29.0]
 [Info   :Jotunn.Main] Initializing ModCompatibility
 [Info   :Jotunn.Main] Initializing SynchronizationManager
@@ -33,6 +33,7 @@
 [Info   :   BepInEx] Loading [WhereYouAt 1.0.11]
 [Info   :   BepInEx] Loading [DodgeShortcut 1.1.1]
 [Info   :DodgeShortcut] DodgeShortcut Loadded
+[Info   :   BepInEx] Loading [Recycle Items Into Parts 1.6.0]
 [Info   :   BepInEx] Loading [MultiUserChest 0.6.1]
 [Info   :   BepInEx] Loading [ItemHopper 2.0.0]
 [Info   :Jotunn.Main] Initializing LocalizationManager
@@ -41,50 +42,51 @@
 [Info   :   BepInEx] Loading [VNEI 0.17.5]
 [Info   :Jotunn.Main] Initializing CommandManager
 [Info   :Jotunn.Main] Initializing ModQuery
+[Info   :   BepInEx] Loading [SkToolbox 1.10.8.0]
 [Info   :   BepInEx] Loading [Newtonsoft.Json Detector 1.0.0]
 [Info   :Newtonsoft.Json Detector] Newtonsoft.Json 13.0.0.0 loaded from plugins\ValheimModding-JsonDotNET\Newtonsoft.Json.dll
 [Info   :   BepInEx] Loading [YamlDotNet Detector 1.0.0]
 [Info   :YamlDotNet Detector] YamlDotNet 16.0.0.0 assembly already loaded from plugins\ValheimModding-YamlDotNet\YamlDotNet.dll
+[Info   :   BepInEx] Loading [CraftingStationTweakz 0.0.1]
 [Info   :   BepInEx] Loading [ServerSideMap 1.3.13.0]
 [Info   :ServerSideMap] Store1: False
 [Info   :ServerSideMap] Store2: False
-[Info   :   BepInEx] Loading [ValheimAdminTool 0.1.0]
 [Info   :   BepInEx] Loading [BetterUI 2.5.9]
 [Info   :  BetterUI] BetterUI (Forever Maintained Version) loaded
 [Info   :   BepInEx] Loading [Item Drawers 0.5.7]
 [Info   :AuthoritativeConfig_mkz.itemdrawers] Initialized Server Authoritative Config Manager.
 [Info   :   BepInEx] Loading [Automatics 1.6.0]
-[Info   : Unity Log] 05/29/2026 22:27:57: Loaded localization file #0 - 'localization' language: 'English'
+[Info   : Unity Log] 05/31/2026 12:11:38: Loaded localization file #0 - 'localization' language: 'English'
 
-[Info   : Unity Log] 05/29/2026 22:27:57: Loaded localization file #1 - 'localization_extra' language: 'English'
+[Info   : Unity Log] 05/31/2026 12:11:38: Loaded localization file #1 - 'localization_extra' language: 'English'
 
-[Info   : Unity Log] 05/29/2026 22:27:57: Loaded localization file #2 - 'heightmap_message' language: 'English'
+[Info   : Unity Log] 05/31/2026 12:11:38: Loaded localization file #2 - 'heightmap_message' language: 'English'
 
-[Info   : Unity Log] 05/29/2026 22:27:57: Loaded localization file #3 - 'localization_witch' language: 'English'
+[Info   : Unity Log] 05/31/2026 12:11:38: Loaded localization file #3 - 'localization_witch' language: 'English'
 
-[Info   : Unity Log] 05/29/2026 22:27:57: Loaded localization file #4 - 'localization_ashlands' language: 'English'
+[Info   : Unity Log] 05/31/2026 12:11:38: Loaded localization file #4 - 'localization_ashlands' language: 'English'
 
-[Info   : Unity Log] 05/29/2026 22:27:57: Loaded localization file #5 - 'localization_captions' language: 'English'
+[Info   : Unity Log] 05/31/2026 12:11:38: Loaded localization file #5 - 'localization_captions' language: 'English'
 
-[Info   : Unity Log] 05/29/2026 22:27:57: Loaded localization file #6 - 'localization_combatupdate' language: 'English'
+[Info   : Unity Log] 05/31/2026 12:11:38: Loaded localization file #6 - 'localization_combatupdate' language: 'English'
 
-[Info   : Unity Log] 05/29/2026 22:27:57: Loaded localization file #7 - 'localization_celebrationupdate' language: 'English'
+[Info   : Unity Log] 05/31/2026 12:11:38: Loaded localization file #7 - 'localization_celebrationupdate' language: 'English'
 
-[Info   : Unity Log] 05/29/2026 22:27:57: Loaded localization file #0 - 'localization' language: 'Polish'
+[Info   : Unity Log] 05/31/2026 12:11:38: Loaded localization file #0 - 'localization' language: 'Polish'
 
-[Info   : Unity Log] 05/29/2026 22:27:57: Loaded localization file #1 - 'localization_extra' language: 'Polish'
+[Info   : Unity Log] 05/31/2026 12:11:38: Loaded localization file #1 - 'localization_extra' language: 'Polish'
 
-[Info   : Unity Log] 05/29/2026 22:27:57: Loaded localization file #2 - 'heightmap_message' language: 'Polish'
+[Info   : Unity Log] 05/31/2026 12:11:38: Loaded localization file #2 - 'heightmap_message' language: 'Polish'
 
-[Info   : Unity Log] 05/29/2026 22:27:57: Loaded localization file #3 - 'localization_witch' language: 'Polish'
+[Info   : Unity Log] 05/31/2026 12:11:38: Loaded localization file #3 - 'localization_witch' language: 'Polish'
 
-[Info   : Unity Log] 05/29/2026 22:27:57: Loaded localization file #4 - 'localization_ashlands' language: 'Polish'
+[Info   : Unity Log] 05/31/2026 12:11:38: Loaded localization file #4 - 'localization_ashlands' language: 'Polish'
 
-[Info   : Unity Log] 05/29/2026 22:27:57: Loaded localization file #5 - 'localization_captions' language: 'Polish'
+[Info   : Unity Log] 05/31/2026 12:11:38: Loaded localization file #5 - 'localization_captions' language: 'Polish'
 
-[Info   : Unity Log] 05/29/2026 22:27:57: Loaded localization file #6 - 'localization_combatupdate' language: 'Polish'
+[Info   : Unity Log] 05/31/2026 12:11:38: Loaded localization file #6 - 'localization_combatupdate' language: 'Polish'
 
-[Info   : Unity Log] 05/29/2026 22:27:57: Loaded localization file #7 - 'localization_celebrationupdate' language: 'Polish'
+[Info   : Unity Log] 05/31/2026 12:11:38: Loaded localization file #7 - 'localization_celebrationupdate' language: 'Polish'
 
 [Warning:  HarmonyX] AccessTools.Property: Could not find property for type ConfigurationManager.ConfigurationManager and name Instance
 [Info   :   BepInEx] Loading [ItemStacks 1.2.0]
@@ -147,29 +149,29 @@
 [Info   :   BepInEx] Loading [Zen.ModLib 1.10.10]
 [Info   :   BepInEx] Loading [ZenHoverItem 1.0.1]
 [Message:   BepInEx] Chainloader startup complete
-[Info   : Unity Log] 05/29/2026 22:28:02: Using environment steamid 892970
+[Info   : Unity Log] 05/31/2026 12:11:43: Using environment steamid 892970
 
-[Info   : Unity Log] 05/29/2026 22:28:02: Using steam APPID:892970
+[Info   : Unity Log] 05/31/2026 12:11:43: Using steam APPID:892970
 
-[Info   : Unity Log] 05/29/2026 22:28:02: Authentication:k_ESteamNetworkingAvailability_Attempting
+[Info   : Unity Log] 05/31/2026 12:11:43: Authentication:k_ESteamNetworkingAvailability_Attempting
 
-[Info   : Unity Log] 05/29/2026 22:28:02: Platform doesn't implement Process Lifetime Management! Don't initialize suspend manager.
+[Info   : Unity Log] 05/31/2026 12:11:43: Platform doesn't implement Process Lifetime Management! Don't initialize suspend manager.
 
-[Info   : Unity Log] 05/29/2026 22:28:02: Initialized platform!
+[Info   : Unity Log] 05/31/2026 12:11:43: Initialized platform!
 
-[Info   : Unity Log] 05/29/2026 22:28:02: Platform doesn't implement matchmaking! Don't initialize matchmaking manager.
+[Info   : Unity Log] 05/31/2026 12:11:43: Platform doesn't implement matchmaking! Don't initialize matchmaking manager.
 
-[Info   : Unity Log] 05/29/2026 22:28:02: All files in local storage save data:
+[Info   : Unity Log] 05/31/2026 12:11:43: All files in local storage save data:
 C:/Users/heatl/AppData/LocalLow/IronGate/Valheim\adminlist.txt (40)
 C:/Users/heatl/AppData/LocalLow/IronGate/Valheim\bannedlist.txt (41)
 C:/Users/heatl/AppData/LocalLow/IronGate/Valheim\permittedlist.txt (43)
-C:/Users/heatl/AppData/LocalLow/IronGate/Valheim\Player-prev.log (930825)
-C:/Users/heatl/AppData/LocalLow/IronGate/Valheim\Player.log (19670)
+C:/Users/heatl/AppData/LocalLow/IronGate/Valheim\Player-prev.log (286680)
+C:/Users/heatl/AppData/LocalLow/IronGate/Valheim\Player.log (19796)
 
-[Info   : Unity Log] 05/29/2026 22:28:02: All files in platform save data:
-characters/alpine.fch (103295)
+[Info   : Unity Log] 05/31/2026 12:11:43: All files in platform save data:
+worlds/testtt_backup_auto-20260530155722.fwl (271)
 characters/alpine.fch.old (103285)
-characters/alpinek.fch (20861)
+worlds/testtt_backup_20260530-155722.db (1991476)
 characters/alpinek.fch.old (20636)
 characters/alpinek_backup_20251112-190015.fch (19613)
 characters/alpinek_backup_auto-20250222200519.fch (14148)
@@ -196,10 +198,10 @@ characters/jorund_backup_auto-20250313222010.fch (71406)
 characters/jorund_backup_auto-20250314165127.fch (71044)
 characters/jorund_backup_auto-20250314210430.fch (71938)
 characters/jorund_backup_auto-20250315133811.fch (72270)
-serverlist/favorite (151)
-serverlist/favorite.old (57)
-serverlist/recent (348)
-serverlist/recent.old (301)
+serverlist/favorite (196)
+serverlist/favorite.old (149)
+serverlist/recent (395)
+serverlist/recent.old (395)
 worlds/eltest.db (3484920)
 worlds/eltest.fwl (47)
 worlds/eltest_backup_20251112-190015.db (3477710)
@@ -209,36 +211,32 @@ worlds/eltest_backup_auto-20250830222947.db (2514385)
 worlds/eltest_backup_auto-20250830222947.fwl (47)
 worlds/eltest_backup_auto-20250831163243.db (3312794)
 worlds/eltest_backup_auto-20250831163243.fwl (47)
-worlds/Queee.db (16081995)
+worlds/Queee.db (16081887)
 worlds/Queee.fwl (282)
 worlds/Queee_backup_auto-20240425221824.db (7203313)
 worlds/Queee_backup_auto-20240425221824.fwl (282)
 worlds/tests_backup_auto-20240423185149.fwl (46)
-worlds/testtt.db (1991476)
+worlds/testtt.db (2270211)
 worlds/testtt.fwl (271)
-worlds/testtt_backup_auto-20250226170120.db (1989056)
-worlds/testtt_backup_auto-20250226170120.fwl (271)
-worlds/testtt_backup_auto-20250302152853.db (1990185)
-worlds/testtt_backup_auto-20250302152853.fwl (271)
 worlds/testtt_backup_auto-20250304205726.db (1990173)
 worlds/testtt_backup_auto-20250304205726.fwl (271)
 worlds/testtt_backup_auto-20250315161144.db (1990551)
 worlds/testtt_backup_auto-20250315161144.fwl (271)
 worlds/testt_backup_auto-20250222162941.fwl (46)
-worlds/val2k.db (1429963)
+worlds/val2k.db (1485047)
 worlds/val2k.fwl (46)
 worlds/val2k_backup_auto-20251117195232.fwl (46)
 worlds/val3k.db (980133)
 worlds/val3k.fwl (46)
 worlds/val3k_backup_auto-20260201160044.fwl (46)
-characters/jordunek.fch (12336)
+worlds/testtt_backup_20260530-155722.fwl (271)
 characters/jordunek_backup_auto-20260518183530.fch (972)
 worlds/testek_backup_auto-20260527161845.fwl (94)
 worlds/val26k_backup_auto-20260518183549.fwl (47)
 characters/jordunek.fch.old (12336)
 characters/testek_backup_auto-20260527161845.fch (17954)
 characters/jorund_backup_20260527-141123.fch (72471)
-characters/testek.fch (38551)
+worlds/Queee_backup_auto-20260529234243.fwl (282)
 characters/testek_backup_auto-20260527141332.fch (971)
 worlds/testek.fwl (94)
 worlds/testek_backup_auto-20260527141409.fwl (44)
@@ -247,6 +245,7 @@ worlds/testek.db (1873738)
 worlds/testek_backup_auto-20260527161845.db (1668917)
 worlds/testek_backup_auto-20260529194621.fwl (94)
 worlds/testek_backup_auto-20260529194621.db (1676324)
+characters/teste_backup_auto-20260529230634.fch (800)
 characters/testek_backup_auto-20260529201616.fch (20929)
 worlds/val2k_backup_20260529-201718.fwl (46)
 worlds/val2k_backup_20260529-201718.db (1432966)
@@ -256,214 +255,199 @@ worlds/Queee_backup_20260529-201745.fwl (282)
 worlds/Queee_backup_20260529-201745.db (16058451)
 worlds/Queee_backup_auto-20260529201745.fwl (282)
 worlds/Queee_backup_auto-20260529201745.db (16029894)
+characters/teste.fch.old (20683)
+worlds/Queee_backup_auto-20260529234243.db (16081931)
+characters/test_backup_auto-20260530155709.fch (969)
+characters/zxcv_backup_auto-20260529235522.fch (969)
+characters/zxcv.fch.old (13836)
+characters/test.fch (22587)
+characters/vidar_backup_auto-20260530152057.fch (970)
+characters/vidar.fch.old (971)
+worlds/testtt_backup_auto-20260530155722.db (1991146)
+characters/test.fch.old (22587)
+characters/vidar_backup_auto-20260530184031.fch (971)
+characters/sigurd.fch (20333)
+characters/sigurd_backup_auto-20260530184243.fch (971)
+characters/sigurd.fch.old (20333)
+characters/sigurd_backup_auto-20260530204603.fch (18932)
+worlds/val2k_backup_auto-20260530214738.fwl (46)
+worlds/val2k_backup_auto-20260530214738.db (1429917)
+worlds/testtt_backup_auto-20260531112843.fwl (271)
+worlds/testtt_backup_auto-20260531112843.db (2266402)
 
-[Info   : Unity Log] 05/29/2026 22:28:02: Initializing preferences provider...
+[Info   : Unity Log] 05/31/2026 12:11:43: Initializing preferences provider...
 
-[Info   : Unity Log] 05/29/2026 22:28:02: No preference provider available for this platform!
+[Info   : Unity Log] 05/31/2026 12:11:43: No preference provider available for this platform!
 
-[Info   : Unity Log] 05/29/2026 22:28:02: Set background loading budget to Low
+[Info   : Unity Log] 05/31/2026 12:11:43: Set background loading budget to Low
 
 [Info   :BowsBeforeHoes] XPortal detected, adding support
-[Info   : Unity Log] 05/29/2026 22:28:02: Loading first scene!
+[Info   : Unity Log] 05/31/2026 12:11:43: Loading first scene!
 
-[Info   : Unity Log] 05/29/2026 22:28:02: Preferences initialized! Activating first scene!
+[Info   : Unity Log] 05/31/2026 12:11:43: Preferences initialized! Activating first scene!
 
-[Info   : Unity Log] 05/29/2026 22:28:03: 
+[Info   :AzuCraftyBoxes] Configuration reload complete.
+[Info   : Unity Log] 05/31/2026 12:11:44: 
 
 [Info   :Jotunn.Managers.InputManager] Registering 2 custom inputs
-[Info   : Unity Log] 05/29/2026 22:28:03: Starting to load scene:start.unity (169d7618616154c03be07e9ad3af5893)
+[Info   : Unity Log] 05/31/2026 12:11:44: Starting to load scene:start.unity (169d7618616154c03be07e9ad3af5893)
 
-[Info   : Unity Log] 05/29/2026 22:28:03: Set background loading budget to Normal
+[Info   : Unity Log] 05/31/2026 12:11:44: Set background loading budget to Normal
 
-[Info   : Unity Log] 05/29/2026 22:28:07: Set background loading budget to High
+[Info   : Unity Log] (SkToolbox) ->  (CONTROLLER) ->  (NOTIFY) -> LOADING... | WAITING FOR TOOLBOX.  
+[Info   : Unity Log] (SkToolbox) ->  (TOOLBOX) ->  (NOTIFY) -> LOADING... | MODULES LOADING...  
+[Info   : Unity Log] (SkToolbox) ->  (TOOLBOX) -> Apologies, command aliasing was broken by Hearth and Home and is disabled this patch. Fix is in progress.  
+[Warning: Unity Log] (SkToolbox) ->  (ERR) -> Error detected! | Failure has occurred while loading a type. | SkToolboxValheim  
+[Info   : Unity Log] (SkToolbox) ->  (TOOLBOX) ->  (MODULE) ->  (NOTIFY) -> NAME: PLAYER | STATUS: READY  
+[Info   : Unity Log] (SkToolbox) ->  (TOOLBOX) ->  (MODULE) ->  (NOTIFY) -> NAME: WORLD | STATUS: READY  
+[Info   : Unity Log] (SkToolbox) ->  (TOOLBOX) ->  (MODULE) ->  (NOTIFY) -> NAME: CC CONTROLLER | STATUS: ERROR  
+[Warning: Unity Log] (SkToolbox) ->  (ERR) -> Error detected! | Failure has occurred while loading a type. | SkToolboxValheim  
+[Info   : Unity Log] (SkToolbox) ->  (TOOLBOX) ->  (MODULE) ->  (NOTIFY) ->  (RECHECK 1) -> NAME: CC CONTROLLER | STATUS: ERROR  
+[Warning: Unity Log] (SkToolbox) ->  (ERR) -> Error detected! | Failure has occurred while loading a type. | SkToolboxValheim  
+[Info   : Unity Log] (SkToolbox) ->  (TOOLBOX) ->  (MODULE) ->  (NOTIFY) ->  (RECHECK 2) -> NAME: CC CONTROLLER | STATUS: ERROR  
+[Warning: Unity Log] (SkToolbox) ->  (ERR) -> Error detected! | Failure has occurred while loading a type. | SkToolboxValheim  
+[Info   : Unity Log] (SkToolbox) ->  (TOOLBOX) ->  (MODULE) ->  (NOTIFY) ->  (RECHECK 3) -> NAME: CC CONTROLLER | STATUS: ERROR  
+[Warning: Unity Log] (SkToolbox) ->  (TOOLBOX) ->  (NOTIFY) -> MODULE NOT MOVING TO READY STATUS. | UNLOADING THE MODULE(S).  
+[Info   : Unity Log] (SkToolbox) ->  (TOOLBOX) ->  (MODULE) ->  (NOTIFY) -> NAME: PLAYER | STATUS: READY  
+[Info   : Unity Log] (SkToolbox) ->  (TOOLBOX) ->  (MODULE) ->  (NOTIFY) -> NAME: WORLD | STATUS: READY  
+[Info   : Unity Log] (SkToolbox) ->  (TOOLBOX) ->  (NOTIFY) -> 2 MODULES LOADED | TOOLBOX READY.  
+[Info   : Unity Log] (SkToolbox) ->  (CONTROLLER) ->  (NOTIFY) -> READY.  
+[Info   : Unity Log] 05/31/2026 12:11:48: Set background loading budget to High
 
-[Info   : Unity Log] 05/29/2026 22:28:07: GPU Device: 10DE:2C05 (NVIDIA)
+[Info   : Unity Log] 05/31/2026 12:11:48: GPU Device: 10DE:2C05 (NVIDIA)
 
-[Info   : Unity Log] 05/29/2026 22:28:07: Set background loading budget to Low
+[Info   : Unity Log] 05/31/2026 12:11:48: Set background loading budget to Low
 
 [Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
-[Warning: Unity Log] 05/29/2026 22:28:07: Missing audio clip in music respawn
+[Warning: Unity Log] 05/31/2026 12:11:48: Missing audio clip in music respawn
 
-[Info   : Unity Log] 05/29/2026 22:28:07: Loaded localization file #0 - 'localization' language: 'English'
+[Info   : Unity Log] 05/31/2026 12:11:48: Loaded localization file #0 - 'localization' language: 'English'
 
-[Info   : Unity Log] 05/29/2026 22:28:07: Loaded localization file #1 - 'localization_extra' language: 'English'
+[Info   : Unity Log] 05/31/2026 12:11:48: Loaded localization file #1 - 'localization_extra' language: 'English'
 
-[Info   : Unity Log] 05/29/2026 22:28:07: Loaded localization file #2 - 'heightmap_message' language: 'English'
+[Info   : Unity Log] 05/31/2026 12:11:48: Loaded localization file #2 - 'heightmap_message' language: 'English'
 
-[Info   : Unity Log] 05/29/2026 22:28:07: Loaded localization file #3 - 'localization_witch' language: 'English'
+[Info   : Unity Log] 05/31/2026 12:11:48: Loaded localization file #3 - 'localization_witch' language: 'English'
 
-[Info   : Unity Log] 05/29/2026 22:28:07: Loaded localization file #4 - 'localization_ashlands' language: 'English'
+[Info   : Unity Log] 05/31/2026 12:11:48: Loaded localization file #4 - 'localization_ashlands' language: 'English'
 
-[Info   : Unity Log] 05/29/2026 22:28:07: Loaded localization file #5 - 'localization_captions' language: 'English'
+[Info   : Unity Log] 05/31/2026 12:11:48: Loaded localization file #5 - 'localization_captions' language: 'English'
 
-[Info   : Unity Log] 05/29/2026 22:28:07: Loaded localization file #6 - 'localization_combatupdate' language: 'English'
+[Info   : Unity Log] 05/31/2026 12:11:48: Loaded localization file #6 - 'localization_combatupdate' language: 'English'
 
-[Info   : Unity Log] 05/29/2026 22:28:07: Loaded localization file #7 - 'localization_celebrationupdate' language: 'English'
+[Info   : Unity Log] 05/31/2026 12:11:48: Loaded localization file #7 - 'localization_celebrationupdate' language: 'English'
 
-[Info   : Unity Log] 05/29/2026 22:28:07: Loaded localization file #0 - 'localization' language: 'Polish'
+[Info   : Unity Log] 05/31/2026 12:11:48: Loaded localization file #0 - 'localization' language: 'Polish'
 
-[Info   : Unity Log] 05/29/2026 22:28:07: Loaded localization file #1 - 'localization_extra' language: 'Polish'
+[Info   : Unity Log] 05/31/2026 12:11:48: Loaded localization file #1 - 'localization_extra' language: 'Polish'
 
-[Info   : Unity Log] 05/29/2026 22:28:07: Loaded localization file #2 - 'heightmap_message' language: 'Polish'
+[Info   : Unity Log] 05/31/2026 12:11:48: Loaded localization file #2 - 'heightmap_message' language: 'Polish'
 
-[Info   : Unity Log] 05/29/2026 22:28:07: Loaded localization file #3 - 'localization_witch' language: 'Polish'
+[Info   : Unity Log] 05/31/2026 12:11:48: Loaded localization file #3 - 'localization_witch' language: 'Polish'
 
-[Info   : Unity Log] 05/29/2026 22:28:07: Loaded localization file #4 - 'localization_ashlands' language: 'Polish'
+[Info   : Unity Log] 05/31/2026 12:11:48: Loaded localization file #4 - 'localization_ashlands' language: 'Polish'
 
-[Info   : Unity Log] 05/29/2026 22:28:07: Loaded localization file #5 - 'localization_captions' language: 'Polish'
+[Info   : Unity Log] 05/31/2026 12:11:48: Loaded localization file #5 - 'localization_captions' language: 'Polish'
 
-[Info   : Unity Log] 05/29/2026 22:28:07: Loaded localization file #6 - 'localization_combatupdate' language: 'Polish'
+[Info   : Unity Log] 05/31/2026 12:11:48: Loaded localization file #6 - 'localization_combatupdate' language: 'Polish'
 
-[Info   : Unity Log] 05/29/2026 22:28:07: Loaded localization file #7 - 'localization_celebrationupdate' language: 'Polish'
+[Info   : Unity Log] 05/31/2026 12:11:48: Loaded localization file #7 - 'localization_celebrationupdate' language: 'Polish'
 
-[Info   : Unity Log] 05/29/2026 22:28:07: Loaded localization file #0 - 'localization' language: 'English'
+[Info   : Unity Log] 05/31/2026 12:11:48: Loaded localization file #0 - 'localization' language: 'English'
 
-[Info   : Unity Log] 05/29/2026 22:28:07: Loaded localization file #1 - 'localization_extra' language: 'English'
+[Info   : Unity Log] 05/31/2026 12:11:48: Loaded localization file #1 - 'localization_extra' language: 'English'
 
-[Info   : Unity Log] 05/29/2026 22:28:07: Loaded localization file #2 - 'heightmap_message' language: 'English'
+[Info   : Unity Log] 05/31/2026 12:11:48: Loaded localization file #2 - 'heightmap_message' language: 'English'
 
-[Info   : Unity Log] 05/29/2026 22:28:07: Loaded localization file #3 - 'localization_witch' language: 'English'
+[Info   : Unity Log] 05/31/2026 12:11:48: Loaded localization file #3 - 'localization_witch' language: 'English'
 
-[Info   : Unity Log] 05/29/2026 22:28:07: Loaded localization file #4 - 'localization_ashlands' language: 'English'
+[Info   : Unity Log] 05/31/2026 12:11:48: Loaded localization file #4 - 'localization_ashlands' language: 'English'
 
-[Info   : Unity Log] 05/29/2026 22:28:07: Loaded localization file #5 - 'localization_captions' language: 'English'
+[Info   : Unity Log] 05/31/2026 12:11:48: Loaded localization file #5 - 'localization_captions' language: 'English'
 
-[Info   : Unity Log] 05/29/2026 22:28:07: Loaded localization file #6 - 'localization_combatupdate' language: 'English'
+[Info   : Unity Log] 05/31/2026 12:11:48: Loaded localization file #6 - 'localization_combatupdate' language: 'English'
 
-[Info   : Unity Log] 05/29/2026 22:28:07: Loaded localization file #7 - 'localization_celebrationupdate' language: 'English'
+[Info   : Unity Log] 05/31/2026 12:11:48: Loaded localization file #7 - 'localization_celebrationupdate' language: 'English'
 
-[Info   : Unity Log] 05/29/2026 22:28:07: Steam initialized, persona:_/ALPINE
+[Info   : Unity Log] 05/31/2026 12:11:48: Steam initialized, persona:_/ALPINE
 
-[Info   : Unity Log] 05/29/2026 22:28:07: Valheim version: 0.221.12-ServerCharacters (network version 36)
+[Info   : Unity Log] 05/31/2026 12:11:48: Valheim version: 0.221.12-ServerCharacters (network version 36)
 
-[Info   : Unity Log] 05/29/2026 22:28:07: Worldgenerator version setup:2
+[Info   : Unity Log] 05/31/2026 12:11:48: Worldgenerator version setup:2
 
 [Info   :Jotunn.Managers.CommandManager] Adding 7 commands to the Console
-[Info   : Unity Log] 05/29/2026 22:28:07: Render threading mode:LegacyJobified
+[Info   : Unity Log] 05/31/2026 12:11:48: Render threading mode:LegacyJobified
 
-[Info   : Unity Log] 05/29/2026 22:28:07: Checking for installed DLCs
+[Info   : Unity Log] 05/31/2026 12:11:48: Checking for installed DLCs
 
-[Info   : Unity Log] 05/29/2026 22:28:07: DLC:beta installed:False
+[Info   : Unity Log] 05/31/2026 12:11:48: DLC:beta installed:False
 
 [Info   :Jotunn.Managers.ItemManager] Adding 117 custom items to the ObjectDB
-[Warning: Unity Log] Error loading player data: /characters/testek.fch, error: Object reference not set to an instance of an object
-[Warning: Unity Log] Error loading player data: /characters/testek.fch, error: Object reference not set to an instance of an object
-[Info   : Unity Log] 05/29/2026 22:28:08: Sending PlayFab login request (attempt 1)
+[Info   : Unity Log] 05/31/2026 12:11:49: Sending PlayFab login request (attempt 1)
 
-[Info   : Unity Log] 05/29/2026 22:28:08: Starting music menu
+[Info   : Unity Log] 05/31/2026 12:11:49: Starting music menu
 
-[Info   : Unity Log] 05/29/2026 22:28:08: Session auth respons callback
+[Info   : Unity Log] 05/31/2026 12:11:49: Session auth respons callback
 
-[Info   : Unity Log] 05/29/2026 22:28:09: Logged in PlayFab user via Steam auth session ticket
+[Info   : Unity Log] 05/31/2026 12:11:50: Logged in PlayFab user via Steam auth session ticket
 
-[Info   : Unity Log] 05/29/2026 22:28:09: PlayFab local entity ID is A4A9DB048DA84823
+[Info   : Unity Log] 05/31/2026 12:11:50: PlayFab local entity ID is A4A9DB048DA84823
 
-[Info   : Unity Log] 05/29/2026 22:28:09: Released session ticket
+[Info   : Unity Log] 05/31/2026 12:11:50: Released session ticket
 
-[Info   : Unity Log] 05/29/2026 22:31:05: show character selection
+[Info   : Unity Log] 05/31/2026 12:11:57: show character selection
 
-[Info   : Unity Log] 05/29/2026 22:31:05: OnCharacterStart
+[Info   : Unity Log] 05/31/2026 12:11:58: OnCharacterStart
 
-[Warning: Unity Log] 05/29/2026 22:31:06: Censored server name 'wkurwiasz.pl:2456' -> 'wkurwi***.pl:2456'
+[Warning: Unity Log] 05/31/2026 12:11:59: Censored server name 'wkurwiasz.pl:2456' -> 'wkurwi***.pl:2456'
 
-[Info   : Unity Log] 05/29/2026 22:31:06: PlayFab lobby matching search filter 'string_key10 eq '51.83.197.199:2456' and string_key2 eq 'True'': Got back zero lobbies
+[Warning: Unity Log] 05/31/2026 12:11:59: Censored server name 'wkurwiasz.pl:2457' -> 'wkurwi***.pl:2457'
 
-[Info   : Unity Log] 05/29/2026 22:31:08: Failed to get join server data
+[Info   : Unity Log] 05/31/2026 12:12:00: PlayFab lobby matching search filter 'string_key10 eq '51.83.197.199:2456' and string_key2 eq 'True'': Got back zero lobbies
 
-[Info   : Unity Log] 05/29/2026 22:31:08: PlayFab lobby matching search filter 'string_key10 eq '51.83.197.199:2457' and string_key2 eq 'True'': Got back zero lobbies
+[Info   : Unity Log] 05/31/2026 12:12:00: Saved favorite servers list with result SuccessNoWriteNeeded
 
-[Info   : Unity Log] 05/29/2026 22:31:10: Failed to get join server data
+[Info   : Unity Log] 05/31/2026 12:12:00: Saved recent servers list with result SuccessNoWriteNeeded
 
-[Error  : Unity Log] 05/29/2026 22:31:10: Current did not match!
+[Info   : Unity Log] 05/31/2026 12:12:01: Failed to get join server data
 
-[Info   : Unity Log] 05/29/2026 22:31:10: PlayFab lobby matching search filter 'string_key10 eq '51.83.197.199:2456' and string_key2 eq 'True'': Got back zero lobbies
+[Info   : Unity Log] 05/31/2026 12:12:02: PlayFab lobby matching search filter 'string_key10 eq '51.83.197.199:2457' and string_key2 eq 'True'': Got back zero lobbies
 
-[Info   : Unity Log] 05/29/2026 22:31:12: PlayFab lobby matching search filter 'string_key10 eq '51.83.197.199:2457' and string_key2 eq 'True'': Got back zero lobbies
+[Info   : Unity Log] 05/31/2026 12:12:03: Loading main scene
 
-[Info   : Unity Log] 05/29/2026 22:31:15: Added server with name wkurwiasz.pl:2456 to server list
+[Info   : Unity Log] 05/31/2026 12:12:03: Audioman already exist, destroying self
 
-[Info   : Unity Log] 05/29/2026 22:31:16: Backend not retreived yet, checking again in 0.25 seconds...
-
-[Info   : Unity Log] 05/29/2026 22:31:16: Backend not retreived yet, checking again in 0.25 seconds...
-
-[Info   : Unity Log] 05/29/2026 22:31:17: Backend not retreived yet, checking again in 0.25 seconds...
-
-[Info   : Unity Log] 05/29/2026 22:31:17: Backend not retreived yet, checking again in 0.25 seconds...
-
-[Info   : Unity Log] 05/29/2026 22:31:17: Backend not retreived yet, checking again in 0.25 seconds...
-
-[Info   : Unity Log] 05/29/2026 22:31:17: Backend not retreived yet, checking again in 0.25 seconds...
-
-[Info   : Unity Log] 05/29/2026 22:31:18: Backend not retreived yet, checking again in 0.25 seconds...
-
-[Info   : Unity Log] 05/29/2026 22:31:18: Backend not retreived yet, checking again in 0.25 seconds...
-
-[Info   : Unity Log] 05/29/2026 22:31:18: Backend not retreived yet, checking again in 0.25 seconds...
-
-[Info   : Unity Log] 05/29/2026 22:31:18: Backend not retreived yet, checking again in 0.25 seconds...
-
-[Info   : Unity Log] 05/29/2026 22:31:19: Backend not retreived yet, checking again in 0.25 seconds...
-
-[Info   : Unity Log] 05/29/2026 22:31:19: Backend not retreived yet, checking again in 0.25 seconds...
-
-[Info   : Unity Log] 05/29/2026 22:31:19: Backend not retreived yet, checking again in 0.25 seconds...
-
-[Info   : Unity Log] 05/29/2026 22:31:19: Backend not retreived yet, checking again in 0.25 seconds...
-
-[Info   : Unity Log] 05/29/2026 22:31:20: Backend not retreived yet, checking again in 0.25 seconds...
-
-[Info   : Unity Log] 05/29/2026 22:31:20: Backend not retreived yet, checking again in 0.25 seconds...
-
-[Info   : Unity Log] 05/29/2026 22:31:20: Backend not retreived yet, checking again in 0.25 seconds...
-
-[Info   : Unity Log] 05/29/2026 22:31:20: Backend not retreived yet, checking again in 0.25 seconds...
-
-[Info   : Unity Log] 05/29/2026 22:31:21: Backend not retreived yet, checking again in 0.25 seconds...
-
-[Info   : Unity Log] 05/29/2026 22:31:21: Backend not retreived yet, checking again in 0.25 seconds...
-
-[Info   : Unity Log] 05/29/2026 22:31:21: PlayFab lobby matching search filter 'string_key10 eq '51.83.197.199:2456' and string_key2 eq 'True'': Got back zero lobbies
-
-[Info   : Unity Log] 05/29/2026 22:31:21: Determined backend of dedicated server to be Steamworks
-
-[Info   : Unity Log] 05/29/2026 22:31:21: Loading main scene
-
-[Info   : Unity Log] 05/29/2026 22:31:21: Cloud Save: 104 bytes. /serverlist/favorite.new
-
-[Info   : Unity Log] Steam writing file chunks 1 / 1, (104 bytes)
-[Info   : Unity Log] Steam writing file chunks 1 / 1, (151 bytes)
-[Info   : Unity Log] Steam writing file chunks 1 / 1, (104 bytes)
-[Info   : Unity Log] 05/29/2026 22:31:21: Saved favorite servers list with result Succeess
-
-[Info   : Unity Log] 05/29/2026 22:31:21: Cloud Save: 348 bytes. /serverlist/recent.new
-
-[Info   : Unity Log] Steam writing file chunks 1 / 1, (348 bytes)
-[Info   : Unity Log] Steam writing file chunks 1 / 1, (348 bytes)
-[Info   : Unity Log] Steam writing file chunks 1 / 1, (348 bytes)
-[Info   : Unity Log] 05/29/2026 22:31:21: Saved recent servers list with result Succeess
-
-[Info   : Unity Log] 05/29/2026 22:31:21: Audioman already exist, destroying self
-
-[Info   : Unity Log] 05/29/2026 22:31:21: Steam initialized, persona:_/ALPINE
+[Info   : Unity Log] 05/31/2026 12:12:03: Steam initialized, persona:_/ALPINE
 
 [Info   :Jotunn.Managers.CommandManager] Adding 7 commands to the Console
-[Info   : Unity Log] 05/29/2026 22:31:21: Loading player profile testek
+[Info   : Unity Log] 05/31/2026 12:12:03: Loading player profile test
 
-[Info   : Unity Log] 05/29/2026 22:31:21: isModded: True
+[Info   : Unity Log] 05/31/2026 12:12:03: isModded: True
 
-[Info   : Unity Log] 05/29/2026 22:31:21: Zonesystem Awake 12005
+[Info   : Unity Log] 05/31/2026 12:12:03: Zonesystem Awake 1256
 
-[Info   : Unity Log] 05/29/2026 22:31:21: DungeonDB Awake 12005
+[Info   : Unity Log] 05/31/2026 12:12:03: DungeonDB Awake 1256
 
-[Info   : Unity Log] 05/29/2026 22:31:21: Steam initialized, persona:_/ALPINE
+[Info   : Unity Log] 05/31/2026 12:12:03: Steam initialized, persona:_/ALPINE
 
+[Info   : Unity Log] 05/31/2026 12:12:03: Worldgenerator version setup:2
+
+[Info   : Unity Log] Registered '_shudnal.ConfigurationManager ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'advize.PlantEverything ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'Backpacks ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'org.bepinex.plugins.backpacks ItemManager ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'Azumatt.AzuAutoStore ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'Azumatt.AzuCraftyBoxes ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'Azumatt.BowsBeforeHoes ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'Azumatt.BowsBeforeHoes ItemManager ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'Azumatt.WhereYouAt ConfigSync' RPC - waiting for incoming connections
 [Info   :ServerSideMap] ZNet awake
+[Info   : Unity Log] Registered 'org.bepinex.plugins.servercharacters ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'sighsorry.InventorySlots ConfigSync' RPC - waiting for incoming connections
 [Info   :Jotunn.Managers.PrefabManager] Adding 152 custom prefabs to the ZNetScene
-[Warning:AuthoritativeConfig_mkz.itemdrawers] No Recieved value for Server Authoritative Config. General.Enabled. Falling Back to Client Config.
-[Warning:AuthoritativeConfig_mkz.itemdrawers] No Recieved value for Server Authoritative Config. General.MaxItems. Falling Back to Client Config.
-[Info   : Unity Log] 05/29/2026 22:31:22: Checking for installed DLCs
+[Info   : Unity Log] 05/31/2026 12:12:05: Checking for installed DLCs
 
-[Info   : Unity Log] 05/29/2026 22:31:22: DLC:beta installed:False
+[Info   : Unity Log] 05/31/2026 12:12:05: DLC:beta installed:False
 
 [Info   :Jotunn.Main] Initializing UndoManager
 [Info   :ServerSideMap] Minimap awake
@@ -475,13 +459,13 @@ worlds/Queee_backup_auto-20260529201745.db (16029894)
 [Warning: Unity Log] The LiberationSans SDF Font Asset was not found. There is no Font Asset assigned to StatusEffects_template.
 [Warning: Unity Log] The LiberationSans SDF Font Asset was not found. There is no Font Asset assigned to SaveIcon_template.
 [Warning: Unity Log] The LiberationSans SDF Font Asset was not found. There is no Font Asset assigned to BadConnectionIcon_template.
-[Warning: Unity Log] The LiberationSans SDF Font Asset was not found. There is no Font Asset assigned to BuildHints_template.
-[Warning: Unity Log] The LiberationSans SDF Font Asset was not found. There is no Font Asset assigned to CombatHints_template.
 [Warning: Unity Log] The LiberationSans SDF Font Asset was not found. There is no Font Asset assigned to Player_template.
 [Warning: Unity Log] The LiberationSans SDF Font Asset was not found. There is no Font Asset assigned to Container_template.
 [Warning: Unity Log] The LiberationSans SDF Font Asset was not found. There is no Font Asset assigned to Info_template.
 [Warning: Unity Log] The LiberationSans SDF Font Asset was not found. There is no Font Asset assigned to Crafting_template.
 [Warning: Unity Log] The LiberationSans SDF Font Asset was not found. There is no Font Asset assigned to BossHud_template.
+[Warning: Unity Log] The LiberationSans SDF Font Asset was not found. There is no Font Asset assigned to BuildHints_template.
+[Warning: Unity Log] The LiberationSans SDF Font Asset was not found. There is no Font Asset assigned to CombatHints_template.
 [Info   :Jotunn.Managers.ItemManager] Adding 118 custom items to the ObjectDB
 [Info   :Jotunn.Managers.ItemManager] Adding 34 custom recipes to the ObjectDB
 [Info   :Jotunn.Managers.ItemManager] Adding 6 custom item conversions
@@ -499,131 +483,122 @@ worlds/Queee_backup_auto-20260529201745.db (16029894)
 [Info   :Jotunn.Managers.NetworkManager] Registering 14 custom RPCs
 [Info   :AuthoritativeConfig_mkz.itemdrawers] Authoritative Config Registered -> AuthoritativeConfig_mkz.itemdrawers
 [Info   :AuthoritativeConfig_nex.SpeedyPaths] Authoritative Config Registered -> AuthoritativeConfig_nex.SpeedyPaths
-[Info   : Unity Log] 05/29/2026 22:31:24: Zonesystem Start 12005
+[Info   : Unity Log] 05/31/2026 12:12:08: Zonesystem Start 1256
 
-[Info   : Unity Log] 05/29/2026 22:31:24: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups, 0 clutter  from main
+[Info   : Unity Log] 05/31/2026 12:12:08: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups, 0 clutter  from main
 
-[Info   : Unity Log] 05/29/2026 22:31:24: Added 1 locations, 0 vegetations, 2 environments, 0 biome env-setups, 0 clutter  from main
+[Info   : Unity Log] 05/31/2026 12:12:08: Added 1 locations, 0 vegetations, 2 environments, 0 biome env-setups, 0 clutter  from main
 
-[Info   : Unity Log] 05/29/2026 22:31:24: Added 27 locations, 25 vegetations, 5 environments, 1 biome env-setups, 3 clutter  from main
+[Info   : Unity Log] 05/31/2026 12:12:08: Added 27 locations, 25 vegetations, 5 environments, 1 biome env-setups, 3 clutter  from main
 
-[Info   : Unity Log] 05/29/2026 22:31:24: Added 4 locations, 0 vegetations, 1 environments, 0 biome env-setups, 0 clutter  from main
+[Info   : Unity Log] 05/31/2026 12:12:08: Added 4 locations, 0 vegetations, 1 environments, 0 biome env-setups, 0 clutter  from main
 
-[Info   : Unity Log] 05/29/2026 22:31:24: Added 25 locations, 33 vegetations, 8 environments, 2 biome env-setups, 2 clutter  from main
+[Info   : Unity Log] 05/31/2026 12:12:08: Added 25 locations, 33 vegetations, 8 environments, 2 biome env-setups, 2 clutter  from main
 
-[Info   : Unity Log] 05/29/2026 22:31:24: DungeonDB Start 12005
+[Info   :Server Devcommands] Reloading 1 permission data.
+[Info   : Unity Log] 05/31/2026 12:12:08: DungeonDB Start 1256
 
-[Info   : Unity Log] 05/29/2026 22:31:24: ZRpc timeout set to 30s 
+[Info   : Unity Log] 05/31/2026 12:12:08: ZRpc timeout set to 30s 
 
-[Info   : Unity Log] 05/29/2026 22:31:24: ZNET START
+[Info   : Unity Log] 05/31/2026 12:12:08: ZNET START
 
-[Info   : Unity Log] 05/29/2026 22:31:24: Connecting to server with Steam-backend 51.83.197.199:2456:2456
+[Info   : Unity Log] 05/31/2026 12:12:08: Load world: testtt (testtt)
 
-[Info   : Unity Log] 05/29/2026 22:31:24: Starting to connect to 51.83.197.199:2456
+[Info   : Unity Log] 05/31/2026 12:12:08: Loading 46533 zdos, my sessionID: 2484832829, data version: 37
 
-[Info   :AzuAutoStore] Invoking version check
-[Info   :BowsBeforeHoes] Invoking version check
-[Info   :WhereYouAt] Invoking version check
-[Info   :ServerSideMap] Registered Client Events
-[Info   : Unity Log] 05/29/2026 22:31:24: Got status changed msg k_ESteamNetworkingConnectionState_Connecting
+[Info   : Unity Log] 05/31/2026 12:12:08: Loading in ZDOs
 
-[Info   : Unity Log] 05/29/2026 22:31:24: New connection
+[Info   : Unity Log] 05/31/2026 12:12:08: Adding to Dictionary
 
-[Info   : Unity Log] 05/29/2026 22:31:34: Got status changed msg k_ESteamNetworkingConnectionState_ProblemDetectedLocally
+[Info   : Unity Log] 05/31/2026 12:12:08: Adding to Sectors
 
-[Info   : Unity Log] 05/29/2026 22:31:34: Got problem 5003:Timed out attempting to connect
+[Info   : Unity Log] 05/31/2026 12:12:08: Connecting Portals, Spawners & ZSyncTransforms
 
-[Info   : Unity Log] 05/29/2026 22:31:34:   Closing socket 0
+[Info   : Unity Log] ConnectSpawners => Connected 1 spawners and 0 'done' spawners.
+[Info   : Unity Log] 05/31/2026 12:12:08: Loaded 11192 locations
 
-[Info   : Unity Log] 05/29/2026 22:31:34: Closing socket 0
+[Info   : Unity Log] 05/31/2026 12:12:08: Unloading unused assets
 
-[Info   : Unity Log] 05/29/2026 22:31:34:   send queue size:0
+[Info   :ServerSideMap] World .explored save path: /worlds/testtt
+[Info   :ServerSideMap] new explore file generated
+[Info   : Unity Log] 05/31/2026 12:12:08: PrepareSave: clone done in 3ms
 
-[Info   : Unity Log] 05/29/2026 22:31:34: Got status changed msg k_ESteamNetworkingConnectionState_None
+[Info   : Unity Log] 05/31/2026 12:12:08: PrepareSave: ZDOExtraData.PrepareSave done in 9 ms
 
-[Info   : Unity Log] 05/29/2026 22:31:34: Disposing socket
+[Info   :ServerSideMap] Map saved. Pin Count: 0
+[Info   :ServerSideMap] World .explored save path: /worlds/testtt
+[Info   : Unity Log] 05/31/2026 12:12:08: Starting respawn
 
-[Info   : Unity Log] 05/29/2026 22:31:34: Last socket, unregistering callback
+[Info   : Unity Log] 05/31/2026 12:12:09: Loading minimap textures done [249ms]
 
-[Info   : Unity Log] 05/29/2026 22:31:34: ZSteamSocket  UnregisterGlobalCallbacks, existing sockets:0
+[Info   : Unity Log] 05/31/2026 12:12:09: Minimap: unpacking compressed mapData 8402 => 8388658 bytes
 
-[Info   : Unity Log] 05/29/2026 22:31:34: Disposing socket
+[Info   :XPortal.Log] Received XPortal Config from server
+[Info   :XPortal.Log] Received sync request from `2484832829` because: Test (2484832829) has joined the game
+[Info   :XPortal.Log] Known portals updated
+[Info   : Unity Log] 05/31/2026 12:12:09: tip:$loadscreen_tip18
 
-[Info   : Unity Log] 05/29/2026 22:31:34: Last socket, unregistering callback
+[Info   : Unity Log] 05/31/2026 12:12:17: Spawned after 8,019993
 
-[Info   : Unity Log] 05/29/2026 22:31:34: ZSteamSocket  UnregisterGlobalCallbacks, existing sockets:0
+[Warning: Unity Log] 05/31/2026 12:12:17: Character ID for player ([Test, 0:0], [_/ALPINE, 0:0], _/ALPINE) was 0:0. Skipping.
 
-[Info   : Unity Log] 05/29/2026 22:31:34: Lost connection to server:ErrorConnectFailed
+[Info   : Unity Log] 05/31/2026 12:12:17: Skipping unloading unused assets
 
-[Message:Server Characters] Lost connection to the server. Preparing for emergency backup of profile data.
-[Info   : Unity Log] 05/29/2026 22:31:34: Available space to current user: 874933342208. Saving is blocked if below: 209792302 bytes. Warnings are given if below: 419584604
+[Info   :      VNEI] Index items and recipes
+[Info   :Jotunn.Main] Initializing RenderManager
+[Info   :      VNEI] Loaded 1680 items and 2253 recipes
+[Info   : Unity Log] 05/31/2026 12:12:18: Minimap: Adding unique location (261.27, 57.78, 261.92)
 
-[Info   : Unity Log] 05/29/2026 22:31:34: Shutting down
+[Info   : Unity Log] 05/31/2026 12:12:21: Setting selected recipe 0
 
-[Info   : Unity Log] 05/29/2026 22:31:34: Cloud Save: 38551 bytes. /characters/testek.fch.new
+[Info   : Unity Log] 05/31/2026 12:12:23: Spawned Neck x 1
 
-[Info   : Unity Log] Steam writing file chunks 1 / 1, (38551 bytes)
-[Info   : Unity Log] Steam writing file chunks 1 / 1, (38551 bytes)
-[Info   : Unity Log] Steam writing file chunks 1 / 1, (38551 bytes)
-[Info   : Unity Log] 05/29/2026 22:31:35: Considering autobackup. World time: 9,959991, short time: 7200, long time: 43200, backup count: 4
+[Info   : Unity Log] 05/31/2026 12:12:34: Activating default element Continue
 
-[Info   : Unity Log] 05/29/2026 22:31:35: Skipping backup. World session not long enough.
+[Info   : Unity Log] 05/31/2026 12:12:35: Available space to current user: 822214660096. Saving is blocked if below: 4584354 bytes. Warnings are given if below: 9168708
 
-[Info   : Unity Log] 05/29/2026 22:31:35: ZNet Shutdown
+[Info   : Unity Log] 05/31/2026 12:12:35: Minimap: compressed mapData 8388698 => 8442 bytes
 
-[Info   : Unity Log] 05/29/2026 22:31:35: Unloading unused assets
+[Info   : Unity Log] 05/31/2026 12:12:35: Cloud Save: 22108 bytes. /characters/test.fch.new
 
-[Info   : Unity Log] 05/29/2026 22:31:35: Sending disconnect msg
+[Info   : Unity Log] Steam writing file chunks 1 / 1, (22108 bytes)
+[Info   : Unity Log] Steam writing file chunks 1 / 1, (22587 bytes)
+[Info   : Unity Log] Steam writing file chunks 1 / 1, (22108 bytes)
+[Info   : Unity Log] 05/31/2026 12:12:35: Considering autobackup. World time: 24,81999, short time: 7200, long time: 43200, backup count: 4
+
+[Info   : Unity Log] 05/31/2026 12:12:35: Skipping backup. World session not long enough.
+
+[Message:Server Characters] Backed up a player profile in 'test-2026-05-31T12-12-35.fch'
+[Info   : Unity Log] 05/31/2026 12:12:35: Game - OnApplicationQuit
+
+[Info   : Unity Log] 05/31/2026 12:12:35: Available space to current user: 822214135808. Saving is blocked if below: 4583396 bytes. Warnings are given if below: 9166792
+
+[Info   : Unity Log] 05/31/2026 12:12:35: Shutting down
+
+[Info   : Unity Log] 05/31/2026 12:12:35: Minimap: compressed mapData 8388698 => 8442 bytes
+
+[Info   : Unity Log] 05/31/2026 12:12:35: Cloud Save: 22108 bytes. /characters/test.fch.new
+
+[Info   : Unity Log] Steam writing file chunks 1 / 1, (22108 bytes)
+[Info   : Unity Log] Steam writing file chunks 1 / 1, (22108 bytes)
+[Info   : Unity Log] Steam writing file chunks 1 / 1, (22108 bytes)
+[Info   : Unity Log] 05/31/2026 12:12:36: Considering autobackup. World time: 24,81999, short time: 7200, long time: 43200, backup count: 4
+
+[Info   : Unity Log] 05/31/2026 12:12:36: Skipping backup. World session not long enough.
+
+[Message:Server Characters] Backed up a player profile in 'test-2026-05-31T12-12-36.fch'
+[Info   : Unity Log] 05/31/2026 12:12:36: ZNet Shutdown
+
+[Info   : Unity Log] 05/31/2026 12:12:36: PrepareSave: clone done in 3ms
+
+[Info   : Unity Log] 05/31/2026 12:12:36: PrepareSave: ZDOExtraData.PrepareSave done in 3 ms
+
+[Info   :ServerSideMap] Map saved. Pin Count: 0
+[Info   :ServerSideMap] World .explored save path: /worlds/testtt
+[Info   : Unity Log] 05/31/2026 12:12:36: Unloading unused assets
+
+[Info   : Unity Log] 05/31/2026 12:12:36: Sending disconnect msg
 
 [Info   : Unity Log] ZPlayFabMatchmaking::UnregisterServer - unregistering server now. State: Uninitialized
-[Info   : Unity Log] 05/29/2026 22:31:35: ZNet OnDestroy
-
-[Info   : Unity Log] 05/29/2026 22:31:35: Net scene destroyed
-
-[Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
-[Info   : Unity Log] 05/29/2026 22:31:35: Audioman already exist, destroying self
-
-[Info   : Unity Log] 05/29/2026 22:31:35: Steam initialized, persona:_/ALPINE
-
-[Info   : Unity Log] 05/29/2026 22:31:35: Valheim version: 0.221.12-ServerCharacters (network version 36)
-
-[Info   : Unity Log] 05/29/2026 22:31:35: Worldgenerator version setup:2
-
-[Info   :Jotunn.Managers.CommandManager] Adding 7 commands to the Console
-[Info   : Unity Log] 05/29/2026 22:31:35: Render threading mode:LegacyJobified
-
-[Info   : Unity Log] 05/29/2026 22:31:35: Checking for installed DLCs
-
-[Info   : Unity Log] 05/29/2026 22:31:35: DLC:beta installed:False
-
-[Info   :Jotunn.Managers.ItemManager] Adding 118 custom items to the ObjectDB
-[Warning: Unity Log] Error loading player data: /characters/testek.fch, error: Object reference not set to an instance of an object
-[Warning: Unity Log] Error loading player data: /characters/testek.fch, error: Object reference not set to an instance of an object
-[Info   : Unity Log] 05/29/2026 22:31:35: Starting music menu
-
-[Info   : Unity Log] 05/29/2026 22:31:46: show character selection
-
-[Info   : Unity Log] 05/29/2026 22:31:46: OnCharacterStart
-
-[Info   : Unity Log] 05/29/2026 22:31:47: PlayFab lobby matching search filter 'string_key10 eq '51.83.197.199:2456' and string_key2 eq 'True'': Got back zero lobbies
-
-[Info   : Unity Log] 05/29/2026 22:31:49: Failed to get join server data
-
-[Error  : Unity Log] 05/29/2026 22:31:49: Current did not match!
-
-[Info   : Unity Log] 05/29/2026 22:31:52: Cloud Save: 12 bytes. /serverlist/favorite.new
-
-[Info   : Unity Log] Steam writing file chunks 1 / 1, (12 bytes)
-[Info   : Unity Log] Steam writing file chunks 1 / 1, (104 bytes)
-[Info   : Unity Log] Steam writing file chunks 1 / 1, (12 bytes)
-[Info   : Unity Log] 05/29/2026 22:31:52: Saved favorite servers list with result Succeess
-
-[Info   : Unity Log] 05/29/2026 22:31:52: Saved recent servers list with result SuccessNoWriteNeeded
-
-[Info   : Unity Log] 05/29/2026 22:31:52: show character selection
-
-[Info   : Unity Log] 05/29/2026 22:31:53: Stopping build thread
-
-[Message:Zen.ModLib] Shutting down
-[Info   : Unity Log] 05/29/2026 22:31:54: Steam manager on destroy
+[Info   : Unity Log] 05/31/2026 12:12:36: Stopping build thread
 
