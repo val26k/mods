@@ -1,0 +1,7 @@
+﻿{
+  "name": "FeatherCollector",
+  "description": "Adds a new build piece that collects feathers if you build it on a tree.",
+  "version_number": "1.1.9",
+  "website_url": "https://www.nexusmods.com/valheim/mods/2463?tab=bugs",
+  "dependencies": ["denikson-BepInExPack_Valheim-5.4.2333"]
+}

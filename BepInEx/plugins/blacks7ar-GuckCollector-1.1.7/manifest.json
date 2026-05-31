@@ -1,0 +1,7 @@
+﻿{
+  "name": "GuckCollector",
+  "description": "Adds a new build piece that collects guck from infested trees.",
+  "version_number": "1.1.7",
+  "website_url": "https://www.nexusmods.com/valheim/mods/2484?tab=bugs",
+  "dependencies": ["denikson-BepInExPack_Valheim-5.4.2333"]
+}

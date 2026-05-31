@@ -1,0 +1,9 @@
+{
+    "name": "MoreMapPins",
+    "version_number": "1.1.0",
+    "website_url": "",
+    "description": "Mod allows you to add map pins to place on map. Up to 250 new pins",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.2202"
+    ]
+}
