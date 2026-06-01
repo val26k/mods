@@ -2265,6 +2265,116 @@
             30.0,
             10.0
           ]
+        },
+        {
+          "Item": "BMB_Crossbow_Spirit",
+          "Weight": 1.0,
+          "Rarity": [
+            0.0,
+            10.0,
+            50.0,
+            30.0,
+            10.0
+          ]
+        },
+        {
+          "Item": "BMB_Crossbow_Frost",
+          "Weight": 1.0,
+          "Rarity": [
+            0.0,
+            10.0,
+            50.0,
+            30.0,
+            10.0
+          ]
+        },
+        {
+          "Item": "BMB_SpiritBow",
+          "Weight": 1.0,
+          "Rarity": [
+            0.0,
+            10.0,
+            50.0,
+            30.0,
+            10.0
+          ]
+        },
+        {
+          "Item": "BMB_FrozenBow",
+          "Weight": 1.0,
+          "Rarity": [
+            0.0,
+            10.0,
+            50.0,
+            30.0,
+            10.0
+          ]
+        },
+        {
+          "Item": "BMB_LightningBow",
+          "Weight": 1.0,
+          "Rarity": [
+            0.0,
+            10.0,
+            50.0,
+            30.0,
+            10.0
+          ]
+        },
+        {
+          "Item": "BMB_Crossbow_Toxic",
+          "Weight": 1.0,
+          "Rarity": [
+            0.0,
+            10.0,
+            50.0,
+            30.0,
+            10.0
+          ]
+        },
+        {
+          "Item": "BMB_FieryBow",
+          "Weight": 1.0,
+          "Rarity": [
+            0.0,
+            10.0,
+            50.0,
+            30.0,
+            10.0
+          ]
+        },
+        {
+          "Item": "BMB_Crossbow_Fiery",
+          "Weight": 1.0,
+          "Rarity": [
+            0.0,
+            10.0,
+            50.0,
+            30.0,
+            10.0
+          ]
+        },
+        {
+          "Item": "BMB_ToxicBow",
+          "Weight": 1.0,
+          "Rarity": [
+            0.0,
+            10.0,
+            50.0,
+            30.0,
+            10.0
+          ]
+        },
+        {
+          "Item": "BMB_Crossbow_Lightning",
+          "Weight": 1.0,
+          "Rarity": [
+            0.0,
+            10.0,
+            50.0,
+            30.0,
+            10.0
+          ]
         }
       ]
     },

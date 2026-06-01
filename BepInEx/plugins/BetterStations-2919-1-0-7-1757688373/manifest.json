@@ -1,0 +1,7 @@
+{
+  "name": "BetterStations",
+  "description": "A mod inspired by Enshroudeds crafting stations. Overhauls how crating/processing stations work.",
+  "version_number": "1.0.7",
+  "website_url": "https://www.nexusmods.com/valheim/mods/2919?tab=bugs",
+  "dependencies": ["denikson-BepInExPack_Valheim-5.4.2333"]
+}

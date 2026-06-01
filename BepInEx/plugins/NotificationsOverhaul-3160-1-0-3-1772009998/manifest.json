@@ -1,0 +1,7 @@
+﻿{
+  "name": "NotificationsOverhaul",
+  "description": "Overhauls the boring notification system with a configurable one.",
+  "version_number": "1.0.3",
+  "website_url": "https://www.nexusmods.com/valheim/mods/3160?tab=bugs",
+  "dependencies": ["denikson-BepInExPack_Valheim-5.4.2333"]
+}

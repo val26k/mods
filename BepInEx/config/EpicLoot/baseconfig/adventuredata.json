@@ -209,6 +209,46 @@
       1,
       1,
       1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
       1
     ],
     "RandomItems": [],
@@ -1750,6 +1790,76 @@
       {
         "Item": "BBH_OdinPlus_Quiver",
         "CoinsCost": 1600,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "BMB_Crossbow_Spirit",
+        "CoinsCost": 1300,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "BMB_Crossbow_Frost",
+        "CoinsCost": 1300,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "BMB_SpiritBow",
+        "CoinsCost": 1300,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "BMB_FrozenBow",
+        "CoinsCost": 1300,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "BMB_LightningBow",
+        "CoinsCost": 1300,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "BMB_Crossbow_Toxic",
+        "CoinsCost": 1300,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "BMB_FieryBow",
+        "CoinsCost": 1300,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "BMB_Crossbow_Fiery",
+        "CoinsCost": 1300,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "BMB_ToxicBow",
+        "CoinsCost": 1300,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "BMB_Crossbow_Lightning",
+        "CoinsCost": 1300,
         "ForestTokenCost": 0,
         "IronBountyTokenCost": 0,
         "GoldBountyTokenCost": 0

@@ -1,9 +1,0 @@
-{
-  "name": "AutomaticFermenters",
-  "description": "Udpated for Witch's Bog. Will pull from chests in a configured area and ferment items.  Then store when done.  Configurable time and colored percentage.  Turn off wall checks",
-  "version_number": "1.0.8",
-  "website_url": "https://discord.gg/PQMXbUS6FH",
-  "dependencies": [
-    "denikson-BepInExPack_Valheim-5.4.2101"
-  ]
-}

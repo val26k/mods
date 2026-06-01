@@ -1,0 +1,7 @@
+﻿{
+  "name": "MagicBows",
+  "description": "Adds 10 end-game magical bows that uses eitr and doesn't need an arrow.",
+  "version_number": "1.1.8",
+  "website_url": "https://www.nexusmods.com/valheim/mods/2346?tab=bugs",
+  "dependencies": ["denikson-BepInExPack_Valheim-5.4.2333"]
+}
