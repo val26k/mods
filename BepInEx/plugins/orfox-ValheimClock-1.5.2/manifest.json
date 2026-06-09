@@ -1,0 +1,9 @@
+{
+  "name": "ValheimClock",
+  "version_number": "1.5.2",
+  "website_url": "https://github.com/orfox32/Valheim-Clock",
+  "description": "A highly customizable, server-synchronized HUD clock that fits perfectly into Valheim's native UI.",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2333"
+  ]
+}

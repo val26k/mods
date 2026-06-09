@@ -1,0 +1,9 @@
+{
+    "name": "SharedMapPins",
+    "version_number": "1.1.0",
+    "website_url": "",
+    "description": "Synchronizes map pins between players with duplicate protection. Use instead of ServerSideMap pin sharing.",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.2200"
+    ]
+}
